@@ -1,0 +1,3 @@
+This is the text to check how branches work in Git
+
+Alex
