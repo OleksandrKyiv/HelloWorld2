@@ -2,3 +2,4 @@ This is the text to check how branches work in Git
 Trying to add one line and commit to another branch
 
 Alex
+Alex
